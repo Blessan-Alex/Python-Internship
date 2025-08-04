@@ -1,0 +1,33 @@
+
+
+**Task 2: Create a To-Do List Application (Console-based)**
+
+- **Objective:** Implement a simple to-do list manager.  
+- **Tools:** Python, VS Code / terminal.  
+- **Deliverables:** Python file (todo.py).
+
+**Hints/Mini Guide:**
+
+1. Use lists to store tasks  
+2. Implement add/remove/view functionality  
+3. Store tasks in a text file using open()
+
+**Outcome:** Persistent CLI to-do app
+
+---
+
+**Interview Questions:**
+
+1. How do you open and write to a file in Python?  
+2. What are common file modes?  
+3. What's the use of .strip()?  
+4. How do lists work in Python?  
+5. What is the difference between append() and insert()?  
+6. How can you remove elements from a list?  
+7. What are context managers (with statement)?  
+8. How do you loop through a file line by line?  
+9. What is a data structure?  
+10. What happens if the file doesn't exist?
+
+**Key Concepts:** File Handling, Lists, String Manipulation  
+
