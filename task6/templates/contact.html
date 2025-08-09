@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Contact</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}" />
+  </head>
+  <body>
+    <header>
+      <h1>Contact</h1>
+      <nav>
+        <a href="{{ url_for('index') }}">Home</a>
+        <a href="{{ url_for('contact') }}">Contact</a>
+      </nav>
+    </header>
+
+    <main>
+      {% with messages = get_flashed_messages(category_filter=['error']) %}
+        {% if messages %}
+          <ul class="errors">
+            {% for message in messages %}
+              <li>{{ message }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      {% endwith %}
+
+      <form method="post" action="{{ url_for('contact') }}" class="contact-form">
+        <label>
+          Name
+          <input name="name" type="text" value="{{ (form.name if form else '') | e }}" required />
+        </label>
+        <label>
+          Email
+          <input name="email" type="email" value="{{ (form.email if form else '') | e }}" required />
+        </label>
+        <label>
+          Message
+          <textarea name="message" rows="5" required>{{ (form.message if form else '') | e }}</textarea>
+        </label>
+        <button type="submit">Send</button>
+      </form>
+    </main>
+  </body>
+  </html>
+
+
