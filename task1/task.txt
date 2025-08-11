@@ -1,0 +1,42 @@
+Task 1 :Build a Calculator CLI App.
+Objective: Create a command-line calculator supporting basic operations.
+Tools: Python, VS Code / any text editor, terminal. Deliverables: A Python
+script (calculator.py).
+
+Hints/Mini Guide:
+
+Interview Questions:
+Objective: Create a command-line calculator supporting basic operations.
+Tools: Python, VS Code / any text editor, terminal. Deliverables: A Python
+script (calculator.py).
+PYTHON DEVELOPER INTERNSHIP
+
+1.Use functions for each operation (+, -, *, /)
+2.Take user input using input()
+3.Loop until user chooses to exit
+Outcome: A well-structured schema.
+
+Interview Questions:
+Objective: Create a command-line calculator supporting basic operations.
+Tools: Python, VS Code / any text editor, terminal. Deliverables: A Python
+script (calculator.py).
+PYTHON DEVELOPER INTERNSHIP
+
+1.Use functions for each operation (+, -, *, /)
+2.Take user input using input()
+3.Loop until user chooses to exit
+Outcome: A well-structured schema.
+
+1.What is normalization?
+2.Explain primary vs foreign key.
+3.What are constraints?
+4.What is a surrogate key?
+5.How do you avoid data redundancy?
+6.What is ER diagram?
+7.What are the types of relationships in DBMS?
+8.Explain the purpose of AUTO_INCREMENT.
+9.What is the default storage engine in MySQL?
+10.What is a composite key?
+Task 1 :Build a Calculator CLI App.
+
+Key Concepts: Functions, Loops, Conditionals, CLI Interaction.

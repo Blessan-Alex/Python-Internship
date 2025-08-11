@@ -32,6 +32,8 @@ Thumbs.db
 task4/.venv/
 task5/.ipynb_checkpoints/
 task5/*.png
+task7/sample_images/
+task7/resized_images/
 # Python cache files
 __pycache__/
 *.py[cod]

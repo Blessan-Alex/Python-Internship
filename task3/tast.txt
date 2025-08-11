@@ -1,0 +1,27 @@
+**Task 4: Build a REST API with Flask**
+
+- **Objective:** Create a REST API that manages user data.
+- **Tools:** Python, Flask, Postman or Curl
+- **Deliverables:** Flask app with GET/POST/PUT/DELETE routes
+
+**Hints/Mini Guide:**
+1. Use Flask to create endpoints
+2. Store users in a dictionary or in-memory list
+
+**Outcome:** API development fundamentals
+
+---
+
+**Interview Questions:**
+1. What is Flask?
+2. What is REST?
+3. Difference between GET and POST?
+4. How does a Flask route work?
+5. What is request.json?
+6. What are status codes like 200, 404?
+7. How do you run a Flask app?
+8. What is JSON?
+9. How to test an API?
+10. Can we use a database instead of memory?
+
+**Key Concepts:** REST, HTTP Methods, Flask
