@@ -1,0 +1,27 @@
+
+
+From the first image:
+- Task 5 : Data Analysis on CSV Files
+- Objective: Analyze sales data using Pandas.
+- Tools: Python, Pandas, Jupyter Notebook / Colab
+- Deliverables: Notebook + charts
+
+Hints/Mini Guide:
+1. Load CSV using Pandas
+2. Use groupby(), sum(), plot()
+
+- Outcome: Basic data insights using Python
+
+From the second image (Interview Questions):
+1. What is Pandas used for?
+2. What’s a DataFrame?
+3. How do you read a CSV file?
+4. What is groupby()?
+5. How do you filter rows?
+6. Difference between loc[] and iloc[]?
+7. What does .head() do?
+8. How can you create a bar chart?
+9. What’s the shape of a DataFrame?
+10. What is NaN?
+
+Key Concepts: Pandas, DataFrame, Visualization

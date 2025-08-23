@@ -1,0 +1,21 @@
+date,region,product,units,unit_price
+2024-01-01,North,Widget A,10,19.99
+2024-01-02,North,Widget B,5,24.99
+2024-01-03,South,Widget A,12,19.99
+2024-01-04,East,Widget C,8,29.99
+2024-01-05,West,Widget B,7,24.99
+2024-01-06,South,Widget C,4,29.99
+2024-01-07,East,Widget A,15,19.99
+2024-01-08,West,Widget A,9,19.99
+2024-01-09,North,Widget C,6,29.99
+2024-01-10,South,Widget B,11,24.99
+2024-01-11,East,Widget B,10,24.99
+2024-01-12,West,Widget C,5,29.99
+2024-01-13,North,Widget A,13,19.99
+2024-01-14,South,Widget A,14,19.99
+2024-01-15,East,Widget C,7,29.99
+2024-01-16,West,Widget B,6,24.99
+2024-01-17,North,Widget B,9,24.99
+2024-01-18,South,Widget C,3,29.99
+2024-01-19,East,Widget A,10,19.99
+2024-01-20,West,Widget A,8,19.99

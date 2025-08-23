@@ -1,0 +1,28 @@
+
+Image 1:
+Task 7: Image Resizer Tool
+
+- Objective: Resize and convert images in batch.
+- Tools: Python, Pillow
+- Deliverables: Script that resizes all images in a folder
+
+Hints/Mini Guide:
+1. Use os to read image folder
+2. Use PIL.Image to resize and save
+
+Outcome: Auto­mate image tasks
+
+Image 2:
+Interview Questions:
+1. What is PIL/Pillow?
+2. How do you open and save images?
+3. What is the resize() method?
+4. How do you read all files in a directory?
+5. What is the os module?
+6. How do you change file formats (e.g., JPG to PNG)?
+7. What is a pixel?
+8. What’s the use of try-except here?
+9. How can you make the app dynamic?
+10. Can this be extended to GUI?
+
+Key Concepts: File Handling, Image Processing

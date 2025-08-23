@@ -1,0 +1,30 @@
+
+Image 1:
+Task 8: Build a Chatbot using if-else
+
+• Objective: Create a rule-based chatbot.
+• Tools: Python
+• Deliverables: Script that simulates a chatbot
+
+Hints/Mini Guide:
+1. Use input/output loops
+2. Use simple if-elif-else for responses
+
+• Outcome: Understand basic NLP structure
+
+Image 2:
+Interview Questions:
+1. How do you collect user input?
+2. What is the difference between == and =?
+3. What is a chatbot?
+4. What is the limitation of rule-based bots?
+5. How can you exit a loop on command?
+6. What’s the use of lower()?
+7. How would you handle multiple intents?
+8. How would you test this?
+9. How to organize code better?
+10. How can this evolve into an ML bot?
+
+Key Concepts: Control Flow, Loops, Input Handling
+
+If you’d like, I can also provide a plain text version or extract specific sections.

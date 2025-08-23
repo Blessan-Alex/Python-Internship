@@ -1,0 +1,11 @@
+id,name,category,price,gst
+1,Margherita Pizza,Pizza,299.0,5.0
+2,Pepperoni Pizza,Pizza,349.0,5.0
+3,Chicken Burger,Burger,199.0,5.0
+4,Veg Burger,Burger,149.0,5.0
+5,Pasta Carbonara,Pasta,249.0,5.0
+6,Caesar Salad,Salad,179.0,5.0
+7,Chicken Wings,Appetizer,299.0,5.0
+8,French Fries,Appetizer,99.0,5.0
+9,Coca Cola,Beverage,49.0,5.0
+10,Coffee,Beverage,79.0,5.0

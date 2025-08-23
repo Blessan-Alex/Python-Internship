@@ -1,0 +1,28 @@
+
+
+From the first image (Task 6: Build a Portfolio Website with Flask):
+- Task 6: Build a Portfolio Website with Flask
+- Objective: Create a personal portfolio site.
+- Tools: Python, Flask, HTML, CSS
+- Deliverables: Flask project folder
+
+Hints / Mini Guide:
+1. Set up Flask routing
+2. Create index.html with personal info
+3. Add a contact form
+
+- Outcome: Real-world mini web app
+
+From the second image (Interview Questions – Flask Templates, Jinja2, Web Forms):
+1. What is a template in Flask?
+2. What’s Jinja2?
+3. How do you pass data to a template?
+4. How are forms handled in Flask?
+5. What is render_template()?
+6. How to style your app?
+7. What’s POST vs GET method in forms?
+8. What are static files?
+9. How is routing done in Flask?
+10. Can Flask serve HTML/CSS/JS?
+
+Key Concepts: Flask Templates, Jinja2, Web Forms

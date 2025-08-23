@@ -1,0 +1,74 @@
+[
+  {
+    "order_id": 1,
+    "order_type": "Dine-In",
+    "items": [
+      {"name": "Margherita Pizza", "quantity": 2, "price": 299.0, "total": 598.0},
+      {"name": "Coca Cola", "quantity": 2, "price": 49.0, "total": 98.0}
+    ],
+    "subtotal": 696.0,
+    "gst_amount": 34.8,
+    "discount": 0.0,
+    "total_amount": 730.8,
+    "payment_method": "Card",
+    "timestamp": "2024-01-15 12:30:00"
+  },
+  {
+    "order_id": 2,
+    "order_type": "Takeaway",
+    "items": [
+      {"name": "Chicken Burger", "quantity": 1, "price": 199.0, "total": 199.0},
+      {"name": "French Fries", "quantity": 1, "price": 99.0, "total": 99.0},
+      {"name": "Coffee", "quantity": 1, "price": 79.0, "total": 79.0}
+    ],
+    "subtotal": 377.0,
+    "gst_amount": 18.85,
+    "discount": 20.0,
+    "total_amount": 375.85,
+    "payment_method": "UPI",
+    "timestamp": "2024-01-15 13:45:00"
+  },
+  {
+    "order_id": 3,
+    "order_type": "Dine-In",
+    "items": [
+      {"name": "Pepperoni Pizza", "quantity": 1, "price": 349.0, "total": 349.0},
+      {"name": "Caesar Salad", "quantity": 1, "price": 179.0, "total": 179.0},
+      {"name": "Chicken Wings", "quantity": 1, "price": 299.0, "total": 299.0}
+    ],
+    "subtotal": 827.0,
+    "gst_amount": 41.35,
+    "discount": 0.0,
+    "total_amount": 868.35,
+    "payment_method": "Cash",
+    "timestamp": "2024-01-15 19:20:00"
+  },
+  {
+    "order_id": 4,
+    "order_type": "Takeaway",
+    "items": [
+      {"name": "Veg Burger", "quantity": 2, "price": 149.0, "total": 298.0},
+      {"name": "Coca Cola", "quantity": 2, "price": 49.0, "total": 98.0}
+    ],
+    "subtotal": 396.0,
+    "gst_amount": 19.8,
+    "discount": 10.0,
+    "total_amount": 405.8,
+    "payment_method": "UPI",
+    "timestamp": "2024-01-16 11:15:00"
+  },
+  {
+    "order_id": 5,
+    "order_type": "Dine-In",
+    "items": [
+      {"name": "Pasta Carbonara", "quantity": 1, "price": 249.0, "total": 249.0},
+      {"name": "Coffee", "quantity": 2, "price": 79.0, "total": 158.0}
+    ],
+    "subtotal": 407.0,
+    "gst_amount": 20.35,
+    "discount": 0.0,
+    "total_amount": 427.35,
+    "payment_method": "Card",
+    "timestamp": "2024-01-16 14:30:00"
+  }
+]
